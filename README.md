@@ -1,6 +1,6 @@
-# 👨‍💻 ELVIS | CYBERSECURITY ENGINEER
+# 👨‍💻 ELVIS ROMERO RIVERA | CYBERSECURITY ENGINEER
 
-![Cybersecurity Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F4C81,100:00D9FF&height=180&section=header&text=ELVIS%20%7C%20CYBERSECURITY&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=NETWORK%20SECURITY%20%7C%20SOC%20ANALYST&descAlignY=58&descSize=14)
+![Cybersecurity Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F4C81,100:00D9FF&height=180&section=header&text=ELVIS%20ROMERO%20RIVERA&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20NETWORKS%20%7C%20PYTHON%20%7C%20SOC%20ANALYST&descAlignY=58&descSize=14)
 
 ---
 
